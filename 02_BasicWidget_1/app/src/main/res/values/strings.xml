@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicWidget_1</string>
+    <string name="match_parent">Match Parent</string>
+    <string name="wrap_content">Wrap content</string>
+</resources>
